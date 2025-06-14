@@ -1,0 +1,1092 @@
+.janbolat-site-design {
+  background-color: #faf9f6;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.janbolat-site-design .div {
+  background-color: #faf9f6;
+  overflow: hidden;
+  width: 1920px;
+  height: 6484px;
+  position: relative;
+}
+
+.janbolat-site-design .frame {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50.6px;
+  position: absolute;
+  top: 50px;
+  left: 949px;
+}
+
+.janbolat-site-design .text-wrapper {
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 30.4px;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+  color: #000000;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.janbolat-site-design .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  font-family: "Arial-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.janbolat-site-design .div-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8.43px;
+  padding: 12.65px 25.3px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #000000;
+  border-radius: 8.43px;
+}
+
+.janbolat-site-design .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.84px;
+  font-family: "Arial-Regular", Helvetica;
+  font-weight: 400;
+  color: #faf9f6;
+  font-size: 23.6px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.janbolat-site-design .frame-2 {
+  display: flex;
+  flex-direction: column;
+  width: 836px;
+  align-items: flex-start;
+  gap: 11.01px;
+  position: absolute;
+  top: 307px;
+  left: 100px;
+}
+
+.janbolat-site-design .text-wrapper-4 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -0.85px;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 128px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.janbolat-site-design .text-wrapper-5 {
+  position: relative;
+  align-self: stretch;
+  margin-left: -4.23px;
+  -webkit-text-stroke: 4.23px #000000;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 101.6px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.janbolat-site-design .text-wrapper-6 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 101.6px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.janbolat-site-design .group {
+  position: absolute;
+  width: 449px;
+  height: 440px;
+  top: 1146px;
+  left: 922px;
+}
+
+.janbolat-site-design .overlap {
+  position: absolute;
+  width: 827px;
+  height: 796px;
+  top: 826px;
+  left: 0;
+  background-image: url(https://c.animaapp.com/VFUTNgsK/img/photo-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.janbolat-site-design .frame-3 {
+  display: flex;
+  flex-direction: column;
+  width: 396px;
+  align-items: flex-end;
+  gap: 17.89px;
+  position: relative;
+  top: 183px;
+  left: 424px;
+}
+
+.janbolat-site-design .text {
+  align-self: stretch;
+  margin-top: -0.47px;
+  color: #000000;
+  font-size: 40.6px;
+  line-height: 51.6px;
+  position: relative;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  text-align: right;
+  letter-spacing: 0;
+}
+
+.janbolat-site-design .frame-4 {
+  display: flex;
+  flex-direction: column;
+  width: 235.38px;
+  align-items: flex-end;
+  gap: 11.3px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.janbolat-site-design .frame-5 {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 1.81px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.janbolat-site-design .text-wrapper-7 {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.6px;
+  font-family: "Arial-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 31.7px;
+  white-space: nowrap;
+}
+
+.janbolat-site-design .frame-6 {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 2.04px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+  margin-left: -0.66px;
+}
+
+.janbolat-site-design .text-wrapper-8 {
+  margin-top: -0.68px;
+  font-family: "Arial-Regular", Helvetica;
+  font-weight: 400;
+  font-size: 25px;
+  text-align: right;
+  line-height: 27.9px;
+  position: relative;
+  width: fit-content;
+  color: #000000;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.janbolat-site-design .frame-7 {
+  display: inline-flex;
+  align-items: center;
+  gap: 1.83px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.janbolat-site-design .text-wrapper-9 {
+  margin-top: -0.61px;
+  font-family: "Arial-Regular", Helvetica;
+  font-weight: 400;
+  font-size: 25px;
+  text-align: right;
+  line-height: 32px;
+  position: relative;
+  width: fit-content;
+  color: #000000;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.janbolat-site-design .frame-8 {
+  display: inline-flex;
+  align-items: center;
+  gap: 2.82px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.janbolat-site-design .text-wrapper-10 {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.47px;
+  font-family: "Arial-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 24.7px;
+  white-space: nowrap;
+}
+
+.janbolat-site-design .frame-9 {
+  display: flex;
+  flex-direction: column;
+  width: 430px;
+  align-items: flex-end;
+  gap: 14.88px;
+  position: absolute;
+  top: 1203px;
+  left: 1390px;
+}
+
+.janbolat-site-design .frame-10 {
+  display: inline-flex;
+  align-items: center;
+  gap: 23.52px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.janbolat-site-design .text-2 {
+  margin-top: -0.48px;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 84.4px;
+  text-align: right;
+  line-height: 94.2px;
+  position: relative;
+  width: fit-content;
+  color: #000000;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.janbolat-site-design .text-3 {
+  width: fit-content;
+  margin-top: -2.88px;
+  -webkit-text-stroke: 2.4px #000000;
+  color: transparent;
+  font-size: 84.4px;
+  line-height: 94.2px;
+  white-space: nowrap;
+  position: relative;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  text-align: right;
+  letter-spacing: 0;
+}
+
+.janbolat-site-design .p {
+  position: relative;
+  align-self: stretch;
+  font-family: "Arial-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 23px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 28.4px;
+}
+
+.janbolat-site-design .overlap-group-wrapper {
+  position: absolute;
+  width: 679px;
+  height: 679px;
+  top: 307px;
+  left: 1141px;
+}
+
+.janbolat-site-design .overlap-group {
+  position: relative;
+  width: 680px;
+  height: 680px;
+}
+
+.janbolat-site-design .svg {
+  position: absolute;
+  width: 613px;
+  height: 319px;
+  top: 361px;
+  left: 67px;
+}
+
+.janbolat-site-design .photo {
+  position: absolute;
+  width: 679px;
+  height: 679px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.janbolat-site-design .group-2 {
+  position: absolute;
+  width: 1920px;
+  height: 2519px;
+  top: 1692px;
+  left: 1px;
+}
+
+.janbolat-site-design .frame-11 {
+  position: absolute;
+  width: 1596px;
+  height: 953px;
+  top: 0;
+  left: 137px;
+}
+
+.janbolat-site-design .text-wrapper-11 {
+  position: absolute;
+  height: 120px;
+  top: 163px;
+  left: 535px;
+  font-family: "Arial-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 58px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 60px;
+}
+
+.janbolat-site-design .group-3 {
+  position: absolute;
+  width: 1596px;
+  height: 559px;
+  top: 394px;
+  left: 0;
+}
+
+.janbolat-site-design .overlap-2 {
+  position: absolute;
+  width: 482px;
+  height: 593px;
+  top: 0;
+  left: 558px;
+}
+
+.janbolat-site-design .svg-2 {
+  position: absolute;
+  width: 447px;
+  height: 559px;
+  top: 0;
+  left: 17px;
+  background-color: #1c1c1c;
+  border-radius: 30.52px;
+  filter: blur(46.88px);
+}
+
+.janbolat-site-design .img {
+  position: absolute;
+  width: 482px;
+  height: 593px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.janbolat-site-design .overlap-3 {
+  position: absolute;
+  width: 392px;
+  height: 523px;
+  top: 17px;
+  left: 1204px;
+}
+
+.janbolat-site-design .svg-3 {
+  position: absolute;
+  width: 371px;
+  height: 480px;
+  top: 22px;
+  left: 9px;
+  background-color: #1c1c1c;
+  border-radius: 30.52px;
+  filter: blur(46.88px);
+}
+
+.janbolat-site-design .photo-2 {
+  position: absolute;
+  width: 392px;
+  height: 523px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.janbolat-site-design .overlap-group-2 {
+  position: absolute;
+  width: 391px;
+  height: 488px;
+  top: 35px;
+  left: 0;
+}
+
+.janbolat-site-design .svg-4 {
+  position: absolute;
+  width: 371px;
+  height: 480px;
+  top: 4px;
+  left: 9px;
+  background-color: #1c1c1c;
+  border-radius: 30.52px;
+  filter: blur(46.88px);
+}
+
+.janbolat-site-design .photo-3 {
+  position: absolute;
+  width: 391px;
+  height: 488px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.janbolat-site-design .text-wrapper-12 {
+  position: absolute;
+  width: 336px;
+  height: 32px;
+  top: 92px;
+  left: 630px;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 51.5px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 23.4px;
+}
+
+.janbolat-site-design .group-4 {
+  position: absolute;
+  width: 1598px;
+  height: 583px;
+  top: 1140px;
+  left: 161px;
+}
+
+.janbolat-site-design .text-wrapper-13 {
+  position: absolute;
+  width: 538px;
+  height: 60px;
+  top: 0;
+  left: 529px;
+  font-family: "Arial-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 70px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 60px;
+}
+
+.janbolat-site-design .overlap-4 {
+  position: absolute;
+  width: 517px;
+  height: 433px;
+  top: 151px;
+  left: 533px;
+}
+
+.janbolat-site-design .svg-5 {
+  position: absolute;
+  width: 512px;
+  height: 402px;
+  top: 12px;
+  left: 5px;
+  background-color: #1c1c1c;
+  filter: blur(29.13px);
+}
+
+.janbolat-site-design .group-5 {
+  position: absolute;
+  width: 512px;
+  height: 433px;
+  top: 0;
+  left: 0;
+}
+
+.janbolat-site-design .overlap-5 {
+  position: absolute;
+  width: 398px;
+  height: 324px;
+  top: 219px;
+  left: 1198px;
+}
+
+.janbolat-site-design .svg-6 {
+  position: absolute;
+  width: 398px;
+  height: 301px;
+  top: 4px;
+  left: 0;
+  background-color: #1c1c1c;
+  filter: blur(23.31px);
+}
+
+.janbolat-site-design .group-6 {
+  position: absolute;
+  width: 384px;
+  height: 324px;
+  top: 0;
+  left: 14px;
+}
+
+.janbolat-site-design .overlap-6 {
+  position: absolute;
+  width: 389px;
+  height: 323px;
+  top: 219px;
+  left: 0;
+}
+
+.janbolat-site-design .svg-7 {
+  position: absolute;
+  width: 389px;
+  height: 313px;
+  top: 0;
+  left: 0;
+  background-color: #1c1c1c;
+  filter: blur(23.31px);
+}
+
+.janbolat-site-design .group-7 {
+  position: absolute;
+  width: 382px;
+  height: 323px;
+  top: 0;
+  left: 0;
+}
+
+.janbolat-site-design .group-8 {
+  position: absolute;
+  width: 1434px;
+  height: 652px;
+  top: 1867px;
+  left: 257px;
+}
+
+.janbolat-site-design .group-9 {
+  position: absolute;
+  width: 1432px;
+  height: 497px;
+  top: 155px;
+  left: 0;
+}
+
+.janbolat-site-design .overlap-7 {
+  position: absolute;
+  width: 254px;
+  height: 451px;
+  top: 21px;
+  left: 0;
+}
+
+.janbolat-site-design .svg-8 {
+  position: absolute;
+  width: 248px;
+  height: 447px;
+  top: 4px;
+  left: 0;
+  background-color: #1c1c1c;
+  filter: blur(26.9px);
+}
+
+.janbolat-site-design .photo-4 {
+  position: absolute;
+  width: 254px;
+  height: 451px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.janbolat-site-design .photo-wrapper {
+  position: absolute;
+  width: 501px;
+  height: 497px;
+  top: 0;
+  left: 443px;
+  background-color: #1c1c1c;
+  border-radius: 37.25px;
+  filter: blur(23.18px);
+}
+
+.janbolat-site-design .photo-5 {
+  position: absolute;
+  width: 497px;
+  height: 497px;
+  top: 0;
+  left: 4px;
+  object-fit: cover;
+}
+
+.janbolat-site-design .img-wrapper {
+  position: absolute;
+  width: 344px;
+  height: 455px;
+  top: 17px;
+  left: 1089px;
+  background-color: #1c1c1c;
+  filter: blur(21.52px);
+}
+
+.janbolat-site-design .photo-6 {
+  position: absolute;
+  width: 338px;
+  height: 451px;
+  top: 4px;
+  left: 4px;
+  object-fit: cover;
+}
+
+.janbolat-site-design .text-wrapper-14 {
+  position: absolute;
+  height: 60px;
+  top: 0;
+  left: 547px;
+  font-family: "Arial-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 90px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 60px;
+  white-space: nowrap;
+}
+
+.janbolat-site-design .svg-9 {
+  position: absolute;
+  width: 1919px;
+  height: 3px;
+  top: 1792px;
+  left: 0;
+}
+
+.janbolat-site-design .svg-10 {
+  position: absolute;
+  width: 1919px;
+  height: 3px;
+  top: 1066px;
+  left: 0;
+}
+
+.janbolat-site-design .group-10 {
+  position: absolute;
+  width: 934px;
+  height: 957px;
+  top: 4390px;
+  left: 495px;
+}
+
+.janbolat-site-design .text-wrapper-15 {
+  position: absolute;
+  height: 42px;
+  top: 0;
+  left: 121px;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 70px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 42px;
+  white-space: nowrap;
+}
+
+.janbolat-site-design .text-wrapper-16 {
+  position: absolute;
+  width: 673px;
+  height: 50px;
+  top: 128px;
+  left: 129px;
+  font-family: "Arial-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 60px;
+  white-space: nowrap;
+}
+
+.janbolat-site-design .group-11 {
+  position: absolute;
+  width: 930px;
+  height: 637px;
+  top: 320px;
+  left: 0;
+  border-radius: 14.53px;
+  border: 2.18px solid;
+  border-color: #000000;
+}
+
+.janbolat-site-design .frame-12 {
+  position: absolute;
+  width: 836px;
+  height: 145px;
+  top: 64px;
+  left: 45px;
+}
+
+.janbolat-site-design .text-wrapper-17 {
+  position: absolute;
+  width: 836px;
+  height: 44px;
+  top: -1px;
+  left: 0;
+  font-family: "Arial-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36.3px;
+  letter-spacing: 0;
+  line-height: 43.6px;
+}
+
+.janbolat-site-design .overlap-group-3 {
+  position: absolute;
+  width: 836px;
+  height: 86px;
+  top: 58px;
+  left: 0;
+  border-radius: 6.54px;
+  border: 1.45px solid;
+  border-color: #000000;
+}
+
+.janbolat-site-design .text-wrapper-18 {
+  position: absolute;
+  height: 44px;
+  top: 20px;
+  left: 19px;
+  font-family: "Arial-Regular", Helvetica;
+  font-weight: 400;
+  color: #adadad;
+  font-size: 36.3px;
+  letter-spacing: 0;
+  line-height: 43.6px;
+  white-space: nowrap;
+}
+
+.janbolat-site-design .frame-13 {
+  position: absolute;
+  width: 836px;
+  height: 145px;
+  top: 244px;
+  left: 45px;
+}
+
+.janbolat-site-design .overlap-wrapper {
+  position: absolute;
+  width: 481px;
+  height: 91px;
+  top: 489px;
+  left: 223px;
+}
+
+.janbolat-site-design .overlap-8 {
+  position: relative;
+  width: 479px;
+  height: 91px;
+  background-color: #000000;
+  border-radius: 9.44px;
+}
+
+.janbolat-site-design .text-wrapper-19 {
+  position: absolute;
+  height: 44px;
+  top: 24px;
+  left: 88px;
+  font-family: "Arial-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 36.3px;
+  letter-spacing: 0;
+  line-height: 43.6px;
+  white-space: nowrap;
+}
+
+.janbolat-site-design .group-12 {
+  position: absolute;
+  width: 1116px;
+  height: 302px;
+  top: 5476px;
+  left: 393px;
+}
+
+.janbolat-site-design .text-wrapper-20 {
+  position: absolute;
+  height: 59px;
+  top: 0;
+  left: 361px;
+  font-family: "Arial-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 46.4px;
+  letter-spacing: 0;
+  line-height: 58.9px;
+  white-space: nowrap;
+}
+
+.janbolat-site-design .frame-14 {
+  display: flex;
+  width: 1060px;
+  height: 88px;
+  align-items: center;
+  gap: 37.52px;
+  position: absolute;
+  top: 103px;
+  left: 55px;
+}
+
+.janbolat-site-design .photo-7 {
+  position: relative;
+  width: 78.17px;
+  height: 75.04px;
+}
+
+.janbolat-site-design .text-wrapper-21 {
+  position: relative;
+  width: fit-content;
+  font-family: "Arial-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 37.8px;
+  letter-spacing: 0;
+  line-height: 48px;
+  white-space: nowrap;
+}
+
+.janbolat-site-design .text-wrapper-22 {
+  position: relative;
+  width: 756.83px;
+  margin-top: -1.85px;
+  margin-right: -0.1px;
+  font-family: "Arial-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 22.3px;
+  letter-spacing: 0;
+  line-height: 28.3px;
+}
+
+.janbolat-site-design .frame-15 {
+  display: flex;
+  width: 1100px;
+  height: 88px;
+  align-items: center;
+  gap: 37.52px;
+  position: absolute;
+  top: 214px;
+  left: 0;
+}
+
+.janbolat-site-design .photo-8 {
+  position: relative;
+  width: 130.38px;
+  height: 24.19px;
+}
+
+.janbolat-site-design .text-wrapper-23 {
+  position: relative;
+  width: 731.64px;
+  margin-top: -1.85px;
+  font-family: "Arial-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 22.3px;
+  letter-spacing: 0;
+  line-height: 28.3px;
+}
+
+.janbolat-site-design .group-13 {
+  position: absolute;
+  width: 1922px;
+  height: 593px;
+  top: 5876px;
+  left: 0;
+}
+
+.janbolat-site-design .overlap-9 {
+  position: relative;
+  width: 1920px;
+  height: 593px;
+  border-top-width: 4px;
+  border-top-style: solid;
+  border-color: #000000;
+}
+
+.janbolat-site-design .frame-16 {
+  display: flex;
+  flex-direction: column;
+  width: 161px;
+  height: 229px;
+  align-items: flex-end;
+  gap: 24.89px;
+  position: absolute;
+  top: 123px;
+  left: 96px;
+}
+
+.janbolat-site-design .text-wrapper-24 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -2.26px;
+  font-family: "Arial-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 28.6px;
+  letter-spacing: 0;
+  line-height: 36.3px;
+}
+
+.janbolat-site-design .text-wrapper-25 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Arial-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 28.6px;
+  letter-spacing: 0;
+  line-height: 36.3px;
+}
+
+.janbolat-site-design .text-wrapper-26 {
+  position: relative;
+  align-self: stretch;
+  margin-bottom: -27.86px;
+  font-family: "Arial-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 28.6px;
+  letter-spacing: 0;
+  line-height: 36.3px;
+}
+
+.janbolat-site-design .text-wrapper-27 {
+  position: absolute;
+  height: 49px;
+  top: 480px;
+  left: 914px;
+  font-family: "Arial-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 38.2px;
+  letter-spacing: 0;
+  line-height: 48.5px;
+  white-space: nowrap;
+}
+
+.janbolat-site-design .frame-17 {
+  display: flex;
+  flex-direction: column;
+  width: 258px;
+  align-items: flex-start;
+  gap: 24.64px;
+  position: absolute;
+  top: 189px;
+  left: 1558px;
+}
+
+.janbolat-site-design .frame-18 {
+  display: flex;
+  align-items: flex-end;
+  gap: 22.92px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.janbolat-site-design .photo-9 {
+  position: relative;
+  width: 31.18px;
+  height: 31.18px;
+}
+
+.janbolat-site-design .text-wrapper-28 {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.57px;
+  margin-right: -8.97px;
+  font-family: "Arial-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 28.1px;
+  letter-spacing: 0;
+  line-height: 35.7px;
+  white-space: nowrap;
+}
+
+.janbolat-site-design .frame-19 {
+  display: flex;
+  align-items: center;
+  gap: 46.41px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.janbolat-site-design .text-wrapper-29 {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.57px;
+  margin-right: -0.47px;
+  font-family: "Arial-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 28.1px;
+  letter-spacing: 0;
+  line-height: 35.7px;
+  white-space: nowrap;
+}
+
+.janbolat-site-design .text-wrapper-30 {
+  position: absolute;
+  top: 49px;
+  left: 100px;
+  font-family: "BM HANNA_TTF-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 59px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
